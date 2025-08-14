@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.csv
+*.xlsx
+
+# Model weights
+*.pt
+*.onnx
+
+# Backup files
+*.bak
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
